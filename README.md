@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040413
+# Name: Siddharth CM
+# Date: 05.09.2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/caf83fda-2ba1-4caa-a680-89ef4a61ffcf" />
 
 
 
@@ -57,6 +58,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/85eff13d-2a71-4f2b-bdd0-6b0b38b27e4e" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1533" height="862" alt="image" src="https://github.com/user-attachments/assets/b28386eb-9ba0-4c95-becc-0b9c7b226022" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/6f79aabb-2f71-488e-9a07-3e65732248d5" />
 
 
 
@@ -96,6 +101,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/00244c4e-66c5-4148-87fa-23337f486e2a" />
 
 
 
@@ -118,6 +124,8 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+
+<img width="1535" height="862" alt="Screenshot 2026-09-01 201245" src="https://github.com/user-attachments/assets/dc523925-412a-4fa8-a6e9-b1f36ac2e7fd" />
 
 
 
